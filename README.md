@@ -7,3 +7,4 @@ IMMUTABLE infrastructure
 #3 - To destroy infrastructure - terraform destroy
 
 #4 - To check the status and plan - terraform plan
+ 
