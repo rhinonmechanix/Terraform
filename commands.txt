@@ -1,0 +1,11 @@
+Terraform init          #Starting with running the main.tf file
+Terraform plan          #To check the status and plan
+Terraform apply         #To update and apply
+Terraform destroy       #To destroy infrastructure
+Terraform Validate      #Validates if the infrastructure code is right or wrong
+Terraform fmt           #formats the code
+Terraform show          #which show the contents of current directory
+Terraform show -json    #show is json form
+Terraform providers     #to see all providers for all directories
+Terraform output        #to get the output and save in a local file
+Terraform graph         #to get the visual representation of the state file
